@@ -5,7 +5,7 @@
 
 - Learning ReactJS.
 
-- A simple project fetching an (external API)[https://randomuser.me/] for users informations, handling _mouseOver event_ to dynamic change and display some state values.
+- A simple project fetching an [external API](https://randomuser.me/ for users informations, handling _mouseOver event_ to dynamic change and display some state values.
 
 <p>&nbsp;&nbsp;</p>
 
